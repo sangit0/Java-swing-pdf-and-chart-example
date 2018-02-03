@@ -4,9 +4,7 @@ This is a example of using Jfreechart and ItextPDF together.An example PDF is ad
 
 
  # Library Used:
-  - Jfreechart
-  - ItextPDF 5.5
-- ItextPDF (https://github.com/itext/itextpdf)
+- ItextPDF 5.5 (https://github.com/itext/itextpdf)
 - Jfreechart (http://www.jfree.org/jfreechart/index.html)
 
 # Screenshot
